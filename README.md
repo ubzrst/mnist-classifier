@@ -11,7 +11,7 @@ No high-level machine learning libraries (PyTorch, TensorFlow models, scikit-lea
 3. Loss: Cross-entropy
 4. Optimization: Batch gradient descent
 5. Accuracy: ~95% on test data
-6. Implementation style: Object-oriented (single `NeuralNetwork` class)
+6. Implementation style: Object-oriented (single `NeuralNet` class)
 7. One Jupyter notebook (`.ipynb`) containing:
   - Data loading and preprocessing
   - Neural network implementation from scratch
